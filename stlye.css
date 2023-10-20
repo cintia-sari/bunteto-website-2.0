@@ -192,6 +192,7 @@ main {
   margin: 30px 72px 62px 72px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 /* left section setting*/
